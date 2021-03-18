@@ -1,0 +1,130 @@
+[
+  {
+    catName: "T-Shirt",
+    category: "tshirt",
+    id: "mbprn details",
+    name: "Men-Black-Printed-Round-Neck-T-shirt",
+    price: 411,
+    img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4318138/2018/5/4/11525433792765-HERENOW-Men-Black-Printed-Round-Neck-T-shirt-2881525433792598-1.jpg"
+  },
+  {
+    catName: "T-Shirt",
+    category: "tshirt",
+    id: "bpp details",
+    name: "Boys Pack of Triple Printed T-Shirt",
+    price: 666,
+    img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/7/19/0449c939-7fa1-4755-bb5d-53b0025db3e01595110038743-1.jpg"
+  },
+  {
+    catName: "T-Shirt",
+    category: "tshirt",
+    id: "shns details",
+    name: "Striped High Neck Slim T-Shirt",
+    price: 432,
+    img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11759448/2020/6/19/13bd4332-fe94-4a32-a718-6f16bc8284d21592552167864-HERENOW-Women-Tshirts-5811592552166164-1.jpg"
+  },
+  {
+    catName: "T-Shirt",
+    category: "tshirt",
+    id: "cpc details",
+    name: "Colourblocked Polo Collar T-Shirt",
+    price: 510,
+    img: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12193274/2021/1/18/0db56bd7-188e-4eeb-a178-e1b853dd5d4a1610972507566-Roadster-Women-Tshirts-4581610972505957-1.jpg"
+  },
+  {
+    catName: "Saree",
+    category: "saree",
+    id: "ps details",
+    name: "Printed Saree",
+    price: 1990,
+    img: "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5effc224aeb26931758343b9/pratham_blue_blue_floral_print_saree_with_tassels_detail.jpg"
+  },
+  {
+    catName: "Saree",
+    category: "saree",
+    id: "tts details",
+    name: "Textured Traditional Saree",
+    price: 3969,
+    img: "https://assets.ajio.com/medias/sys_master/root/20210109/RIKW/5ff9986eaeb26969814aac6a/alyaka_pink_textured_traditional_saree.jpg"
+  },
+  {
+    catName: "Saree",
+    category: "saree",
+    id: "pws details",
+    name: "Printed Woven Saree",
+    price: 1344,
+    img: "https://assets.ajio.com/medias/sys_master/root/20201111/GEP5/5fab6743f997dd8c8395184f/amrutam_fab_maroon_printed_woven_saree.jpg"
+  },
+  {
+    catName: "Saree",
+    category: "saree",
+    id: "efps details",
+    name: "Ethnic Floral Print Saree",
+    price: 703,
+    img: "https://assets.ajio.com/medias/sys_master/root/20201022/Z3ca/5f90c58baeb269d563ea2ca2/-1117Wx1400H-461512567-multi-MODEL.jpg"
+  },
+  {
+    catName: "Jeans",
+    category: "jeans",
+    id: "mrsj details",
+    name: "Mid-Rise Skinny Jeans",
+    price: 639,
+    img: "https://assets.ajio.com/medias/sys_master/root/hb1/h0e/14876617048094/dnmx_blue_mid-rise_skinny_jeans.jpg"
+  },
+  {
+    catName: "Jeans",
+    category: "jeans",
+    id: "mwsfj details",
+    name: "Mid-Wash Slim Fit Jeans",
+    price: 920,
+    img: "https://assets.ajio.com/medias/sys_master/root/hcf/h07/14312868675614/flying_machine_grey_mid-wash_slim_fit_jeans.jpg"
+  },
+  {
+    catName: "Jeans",
+    category: "jeans",
+    id: "sfwj details",
+    name: "Skinny Fit Washed Jeans",
+    price: 1299,
+    img: "https://assets.ajio.com/medias/sys_master/root/20201222/JAWb/5fe0ec43f997dd8c83daf74a/dnmx_grey_skinny_fit_washed_jeans.jpg"
+  },
+  {
+    catName: "Jeans",
+    category: "jeans",
+    id: "5sfwj details",
+    name: "511 Slim Fit Washed Jeans",
+    price: 703,
+    img: "https://assets.ajio.com/medias/sys_master/root/h09/hf3/15416077746206/levis_blue_511_slim_fit_washed_jeans.jpg"
+  },
+  {
+    catName: "Crop Top",
+    category: "cropTop",
+    id: "vcft details",
+    name: "Victorian Crop Fitted Top",
+    price: 695,
+    img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11679908/2020/5/25/8046704c-bff4-45bc-bf0f-5d438724b7b81590424372490CottinfabWomensBrownPleatedTrouserTopsCarltonLondonWomenTops1.jpg"
+  },
+  {
+    catName: "Crop Top",
+    category: "cropTop",
+    id: "hnct details",
+    name: "High Neck Cropped Top",
+    price: 599,
+    img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12222036/2020/10/6/d7ae3065-98d4-42d0-b244-d2b18802ff101601959656577-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-1.jpg"
+  },
+  {
+    catName: "Crop Top",
+    category: "cropTop",
+    id: "rct details",
+    name: "Ribbed Crop Top",
+    price: 494,
+    img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12284212/2020/8/25/8fc39488-cee7-4424-870d-ae5bd666d19c1598366814622-SASSAFRAS-Women-Black-Solid-Top-601598366813572-1.jpg"
+  },
+  {
+    catName: "Crop Top",
+    category: "cropTop",
+    id: "scpt details",
+    name: "Solid Crop Peplum Top",
+    price: 799,
+    img: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/22/ddcd2cd3-8b09-4005-b06a-dd69b71b08a81611300990216-1.jpg"
+  }
+];
